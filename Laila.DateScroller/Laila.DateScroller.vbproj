@@ -8,10 +8,10 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Laila.DateScroller</Title>
     <Version>1.0.2</Version>
-    <Authors>Laïla Blomme</Authors>
+    <Authors>Laïla Eleven</Authors>
     <Description>A .NET6 date scroller control.</Description>
-    <Copyright>Copyright © 2024 by Laïla Blomme</Copyright>
-    <PackageProjectUrl>https://github.com/lailablomme/Laila.DateScroller</PackageProjectUrl>
+    <Copyright>Copyright © 2024 by Laïla Eleven</Copyright>
+    <PackageProjectUrl>https://github.com/laila-eleven/Laila.DateScroller</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
